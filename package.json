@@ -1,0 +1,16 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "Kate Biserova CV",
+  "dependencies": {},
+  "devDependencies": {
+    "sass": "^1.30.0"
+  },
+  "author": "Kate Biserova",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
+}
